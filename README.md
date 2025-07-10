@@ -1,5 +1,5 @@
 # Overview
-Notebook for the [DengAI: Predicting Disease Spread])https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/ machine learning challenge.
+Notebook for the [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) machine learning challenge.
 
 The code assumes that the following files exist in a `data` directory:
 - dengue_features_train.csv
