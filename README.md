@@ -33,4 +33,3 @@ Tree models can learn to approximate almost any combination of features, but whe
 Counts are especially helpful for tree models, since these models don't have a natural way of aggregating information across many features at once.
 
 Mosquitoes thrive in warm, humid conditions and are most active when temperatures are between 65 and 80 degrees Fahrenheit, with humidity above 70%. Hotter weather, especially when combined with humidity, can increase mosquito populations and activity. Conversely, temperatures below 50°F significantly reduce mosquito activity, and they become dormant when temperatures drop below freezing. Rainfall can also influence mosquito populations by creating breeding grounds in standing water. 
-
